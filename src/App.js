@@ -6,7 +6,7 @@ function App() {
     <div>
       < NavBar />
       <Search />
-      <span>Deployed on surge and removed workflow_dispatch</span>
+      <span>Simple Workflow</span>
     </div>
   )
 }
