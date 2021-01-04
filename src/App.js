@@ -6,7 +6,6 @@ function App() {
     <div>
       < NavBar />
       <Search />
-      <span>Setting workflow </span>
     </div>
   )
 }
