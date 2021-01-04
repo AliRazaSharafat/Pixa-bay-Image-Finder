@@ -6,7 +6,7 @@ function App() {
     <div>
       < NavBar />
       <Search />
-      <span>Deployed on surge</span>
+      <span>Deployed on surge and removed workflow_dispatch</span>
     </div>
   )
 }
