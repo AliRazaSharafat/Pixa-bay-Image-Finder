@@ -6,6 +6,7 @@ function App() {
     <div>
       < NavBar />
       <Search />
+      {/* Pushing to github test 1 */}
     </div>
   )
 }
